@@ -1,0 +1,49 @@
+﻿
+.header {
+    display: flex;
+    background: #ffffff;
+}
+.header .left-header {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.header .left-header .logo img{
+    width: 70px;
+}
+.header .left-header i {
+    margin-left: 10px;
+    color: cornflowerblue;
+    font-size: 30px;
+
+}
+    .header .left-header .tt thanhtoan {
+        margin-left: 10px;
+        font-size: 30px;
+        color: cornflowerblue;
+    } 
+.header .contact {
+    margin-left: auto;
+    display: flex;
+    border: solid cornflowerblue;
+    border-radius:400px;
+}
+    .header .contact .phoneicon img {
+        margin-top: 6px;
+        width: 50px;
+        margin-right: 10px;
+    }
+    .header .contact .phonetext .sdt {
+        margin-top: 6px;
+        font-size: 20px;
+        align-content: center;
+        color: cornflowerblue;
+    }
+    .header .contact .phonetext .work {
+        margin-top: 6px;
+        color: gray;
+        margin-top: 5px;
+    }
+
+
+

@@ -1,0 +1,147 @@
+﻿
+body {
+    background: #d7d7d7;
+    margin: 0;
+}
+
+.htgh {
+    margin-top: 20px;
+    margin-left: 50px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: none;
+    width: 900px;
+    height: 280px;
+    align-content: space-between;
+    padding: 10px;
+}
+htgh{
+        margin-left: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .htgh .deal {
+        display: flex;
+        margin-top: 10px;
+        margin-left: 10px;
+        width: 300px;
+        height: 50px;
+        border: 1px solid #7ccbf7;
+        border-radius: 20px;
+        background: #cfe8f6;
+        justify-content: left;
+        vertical-align: middle;
+        align-items: center;
+    }
+
+        .htgh .deal .green-label {
+            height: 20px;
+            width: 35px;
+            margin-left: 10px;
+            background: #ffffff;
+            color: green;
+            font-weight: bold;
+        }
+
+    .htgh .goi {
+        margin-top: 10px;
+        display: flex;
+        margin-left: 20px;
+    }
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.goi goi {
+    font-size: 15px;
+    font-family: Arial;
+    color: green;
+}
+
+.giaotietkiem {
+    margin-left: 10px;
+    margin-top: 10px;
+    border: solid 2px #d7d7d7;
+    border-radius: 10px;
+    width: 860px;
+    height: 100px;
+}
+
+.ghtk {
+    margin-left:10px;
+    margin-top: 20px;
+    display: flex;
+    gap: 100px;
+}
+
+.n1 {
+    display: flex;
+    gap: 200px;
+}
+.z1 {
+    font-size: 15px;
+    font-family: Arial;
+}
+.z2 s {
+    color: darkgrey;
+}
+z3 {
+    color: dimgray;
+}
+
+.ship {
+    background: #eae9e9;
+    display: flex;
+    border: none;
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+    justify-content: left;
+    vertical-align: middle;
+    align-items: center;
+    font-family: Arial;
+    gap: 10px;
+}
+
+.freeshipicon img {
+    width: 15px;
+    margin-left: 20px;  
+}
+.product {
+    margin-left: 10px;
+    display: flex;
+}
+.producticon img {
+    width: 25px;
+}
+.detail {
+    margin-left: 10px;
+    font-family: Arial;
+    font-size: 13px;
+}
+d1 {
+    color: darkgrey;
+}
+.d2 {
+    color: darkgrey;
+}
+.sl-gt {
+    margin-top: 5px;
+    display: flex;
+    gap: 300px;
+} 
+.khuyenmai {
+    margin-top: 20px;
+    margin-left: 10px;
+    display: flex;
+    gap: 5px;
+    font-family: Arial;
+}
+.voucher-link a{
+    color: darkgrey;
+   text-decoration: none;
+}

@@ -1,0 +1,644 @@
+﻿.hinh-thuc {
+    margin-top: 20px;
+    margin-left: 50px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: none;
+    width: 900px;
+    height: 800px;
+    align-content: space-between;
+    padding: 10px;
+    font-family: Arial;
+}
+.hinh-thuc .title h {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.hinh-thuc img{
+   width: 20px;     
+}
+.tien-mat {
+    margin-top: 24px;
+}
+.viettel {
+    margin-top: 24px;
+}
+.momo {
+    margin-top: 24px;
+}
+.zalo {
+    margin-top: 24px;
+}
+.VNpay {
+    margin-top: 24px;
+    display: flex;
+}
+qr {
+    color: #808080;
+}
+.the-quoc-te {
+    margin-top: 24px;
+}
+.add {
+    margin-top: 10px;
+    margin-left: 40px;
+    border-radius: 5px;
+    height: 50px;
+}
+a {
+    text-decoration: none;
+}
+.discount {
+    margin-left: 50px;
+    border: none;
+    width: 650px;
+    height: 330px;
+    background: #ceeefb;
+}
+txt {
+    margin-left: 10px;
+    color: darkblue;
+    font-size: 15px;
+}
+.dong1 {
+    display: flex;
+}
+.dong1 .the1 {
+    margin-left: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    background: white;
+    width: 200px;
+    height: 55px;
+}
+.dong1 .the1 .c1 {
+    display: flex;
+    margin-left: 10px;
+    margin-top: 5px;
+    gap: 55px;
+}
+.dong1 .the1 .title {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 13px;
+}
+.dong1 .the1 img {
+    width: 60px;
+}
+.dong1 .the1 .c2 {
+    margin-top: 3px;
+    margin-left: 10px;
+    font-size: 10px;
+    color: gray;
+}
+.dong1 .the1 .c3 {
+        margin-top: 3px;
+        margin-left: 10px;
+        font-size: 9px;
+        color: orange;
+    }
+.dong1 .the2 {
+    margin-left: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    background: white;
+    width: 200px;
+    height: 55px;
+}
+
+.dong1 .the2 .c1 {
+        display: flex;
+        margin-left: 10px;
+        margin-top: 5px;
+        gap: 55px;
+    }
+
+    .dong1 .the2 .title {
+        font-size: 13px;
+        color: darkblue;
+        font-weight: bold;
+    }
+
+.dong1 .the2 img {
+        width: 60px;
+    }
+
+.dong1 .the2 .c2 {
+        margin-top: 3px;
+        margin-left: 10px;
+        font-size: 10px;
+        color: gray;
+    }
+
+.dong1 .the2 .c3 {
+        margin-top: 3px;
+        margin-left: 10px;
+        font-size: 9px;
+        color: orange;
+    }
+.dong1 .the3 {
+    margin-left: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    background: white;
+    width: 200px;
+    height: 55px;
+}
+
+.dong1 .the3 .c1 {
+        display: flex;
+        margin-left: 10px;
+        margin-top: 5px;
+        gap: 55px;
+    }
+
+    .dong1 .the3 .title {
+        font-size: 13px;
+        color: darkblue;
+        font-weight: bold;
+    }
+
+.dong1 .the3 img {
+        width: 60px;
+    }
+
+.dong1 .the3 .c2 {
+        margin-top: 3px;
+        margin-left: 10px;
+        font-size: 10px;
+        color: gray;
+    }
+
+.dong1 .the3 .c3 {
+        margin-top: 3px;
+        margin-left: 10px;
+        font-size: 9px;
+        color: orange;
+    }
+.dong2 {
+    display: flex;
+}
+
+    .dong2 .the1 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong2 .the1 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 55px;
+        }
+
+        .dong2 .the1 .title {
+            font-size: 13px;
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        .dong2 .the1 img {
+            width: 60px;
+        }
+
+        .dong2 .the1 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong2 .the1 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+
+    .dong2 .the2 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong2 .the2 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 55px;
+        }
+
+        .dong2 .the2 .title {
+            font-size: 13px;
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        .dong2 .the2 img {
+            width: 60px;
+        }
+
+        .dong2 .the2 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong2 .the2 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+
+    .dong2 .the3 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong2 .the3 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 50px;
+        }
+
+        .dong2 .the3 .title {
+            font-size: 13px;
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        .dong2 .the3 img {
+            width: 60px;
+        }
+
+        .dong2 .the3 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong2 .the3 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+.dong3 {
+    display: flex;
+}
+
+    .dong3 .the1 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong3 .the1 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 50px;
+        }
+
+        .dong3 .the1 .title {
+            color: darkblue;
+            font-weight: bold;
+            font-size: 13px;
+        }
+
+        .dong3 .the1 img {
+            width: 60px;
+        }
+
+        .dong3 .the1 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong3 .the1 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+
+    .dong3 .the2 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong3 .the2 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 55px;
+        }
+
+        .dong3 .the2 .title {
+            font-size: 13px;
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        .dong3 .the2 img {
+            width: 60px;
+        }
+
+        .dong3 .the2 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong3 .the2 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+
+    .dong3 .the3 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong3 .the3 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 55px;
+        }
+
+        .dong3 .the3 .title {
+            font-size: 13px;
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        .dong3 .the3 img {
+            width: 60px;
+        }
+
+        .dong3 .the3 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong3 .the3 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+.dong4 {
+    display: flex;
+}
+
+    .dong4 .the1 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong4 .the1 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 55px;
+        }
+
+        .dong4 .the1 .title {
+            color: darkblue;
+            font-weight: bold;
+            font-size: 13px;
+        }
+
+        .dong4 .the1 img {
+            width: 60px;
+        }
+
+        .dong4 .the1 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong4 .the1 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+
+    .dong4 .the2 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong4 .the2 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 55px;
+        }
+
+        .dong4 .the2 .title {
+            font-size: 13px;
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        .dong4 .the2 img {
+            width: 60px;
+        }
+
+        .dong4 .the2 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong4 .the2 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+
+    .dong4 .the3 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong4 .the3 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 55px;
+        }
+
+        .dong4 .the3 .title {
+            font-size: 13px;
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        .dong4 .the3 img {
+            width: 60px;
+        }
+
+        .dong4 .the3 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong4 .the3 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+.dong5 {
+    display: flex;
+}
+
+    .dong5 .the1 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong5 .the1 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 65px;
+        }
+
+        .dong4 .the1 .title {
+            color: darkblue;
+            font-weight: bold;
+            font-size: 13px;
+        }
+
+        .dong5 .the1 img {
+            width: 45px;
+        }
+
+        .dong5 .the1 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong5 .the1 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
+
+    .dong5 .the2 {
+        margin-left: 10px;
+        margin-top: 5px;
+        border: none;
+        border-radius: 5px;
+        background: white;
+        width: 200px;
+        height: 55px;
+    }
+
+        .dong5 .the2 .c1 {
+            display: flex;
+            margin-left: 10px;
+            margin-top: 5px;
+            gap: 70px;
+        }
+
+        .dong5 .the2 .title {
+            font-size: 13px;
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        .dong5 .the2 img {
+            width: 40px;
+        }
+
+        .dong5 .the2 .c2 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 10px;
+            color: gray;
+        }
+
+        .dong5 .the2 .c3 {
+            margin-top: 3px;
+            margin-left: 10px;
+            font-size: 9px;
+            color: orange;
+        }
